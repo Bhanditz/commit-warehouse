@@ -1,0 +1,5 @@
+af041ffa6458c2748a86c464e943d4e7731254e6d6982ada838724f0646999ce *ubuntu-trusty-core-cloudimg-amd64-root.tar.gz
+ad10374da73af3b7d5e939e37638243817f4dd0d5ecf40b577e046d99cfe1447 *ubuntu-trusty-core-cloudimg-arm64-root.tar.gz
+78781dc967145f6d5737cad56263228d7763effb4ac7db9dd8e5824f396d5170 *ubuntu-trusty-core-cloudimg-armhf-root.tar.gz
+a264d96633ac7a49847151b972a2c4f4e9424d937ef38ead22adf7d44abc70d7 *ubuntu-trusty-core-cloudimg-i386-root.tar.gz
+8ff08a5aa627718733d7b0dd1ed7aeb0deedd213d951db6bc8ce05a833811dc7 *ubuntu-trusty-core-cloudimg-ppc64el-root.tar.gz
