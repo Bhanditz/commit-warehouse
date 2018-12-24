@@ -1,4 +1,4 @@
-FROM debian:stretch-slim
+FROM ppc64le/debian:stretch-slim
 
 RUN apt-get update && apt-get install -y \
 		bzip2 \
