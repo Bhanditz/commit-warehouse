@@ -1,4 +1,4 @@
-FROM debian:stretch-slim
+FROM s390x/debian:stretch-slim
 
 RUN apt-get update && apt-get install -y \
 		bzip2 \

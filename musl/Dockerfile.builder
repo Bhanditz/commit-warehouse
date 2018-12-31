@@ -1,4 +1,4 @@
-FROM alpine:3.8
+FROM s390x/alpine:3.8
 
 RUN apk add --no-cache \
 		bzip2 \
