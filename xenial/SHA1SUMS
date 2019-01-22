@@ -1,0 +1,6 @@
+65c6ee4b6b9e3e0f5906d810a47d826be88c5ebd *ubuntu-xenial-core-cloudimg-amd64-root.tar.gz
+f973daf13924ef0a9c4e55ffb5b8c9ad39d3f532 *ubuntu-xenial-core-cloudimg-arm64-root.tar.gz
+67e7055ba088c6772d7df0c6478ffebe4852d211 *ubuntu-xenial-core-cloudimg-armhf-root.tar.gz
+26c7a11dd0c2bcf5339ffa90e284ebb121f39f3c *ubuntu-xenial-core-cloudimg-i386-root.tar.gz
+8bff8449bb200a321bfce2d0801f52600d4d8fe4 *ubuntu-xenial-core-cloudimg-ppc64el-root.tar.gz
+07fbab1cb7a81d2308560d3005a85f1822955aea *ubuntu-xenial-core-cloudimg-s390x-root.tar.gz
