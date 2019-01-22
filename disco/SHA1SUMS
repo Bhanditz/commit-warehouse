@@ -1,0 +1,6 @@
+124d24b1a50aa4b9c7caa5bc00ae779c4ca2d05b *ubuntu-disco-core-cloudimg-amd64-root.tar.gz
+d30776b7f325d80a22a0fa65d4b82c173bb6041b *ubuntu-disco-core-cloudimg-arm64-root.tar.gz
+280e7855415cfea76f5c6047572bbe159c353c38 *ubuntu-disco-core-cloudimg-armhf-root.tar.gz
+bed42556b7bd8226272794c9ecfa98e4125936d2 *ubuntu-disco-core-cloudimg-i386-root.tar.gz
+bea23f72fc63ba2130df2907d7cecbaa3cd8a50a *ubuntu-disco-core-cloudimg-ppc64el-root.tar.gz
+4cd1c2471800facc5a425cdaf877305da58605ed *ubuntu-disco-core-cloudimg-s390x-root.tar.gz
