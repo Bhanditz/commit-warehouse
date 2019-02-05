@@ -140,6 +140,7 @@ mv /usr/share/zoneinfo/UTC /etc/localtime
 rm -rfv  /usr/share/zoneinfo
 
 # no point in packaging up these
+rm -rfv /var/log/yum.log
 rm -rfv /var/cache/yum/*
 rm -f /etc/nsswitch.conf.bak
 rm -f /etc/sysconfig/network-scripts/ifcfg-*
